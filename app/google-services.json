@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "481162024945",
+    "project_id": "infkotlin-381616",
+    "storage_bucket": "infkotlin-381616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481162024945:android:36da2e8a9461f87e635650",
+        "android_client_info": {
+          "package_name": "br.com.liercesantos.infkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481162024945-43obf131jv8kcq2b76su4e50fsmb4ma8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.liercesantos.infkotlin",
+            "certificate_hash": "ad54fe2ff9aafcb1b2d3be75444337b3e44a3786"
+          }
+        },
+        {
+          "client_id": "481162024945-fi6dtgq3kkf7g1hd0j989o2gtboqr31b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVyybHxVwSlwwNHtCZdNCy3EnskARdvzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481162024945-fi6dtgq3kkf7g1hd0j989o2gtboqr31b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

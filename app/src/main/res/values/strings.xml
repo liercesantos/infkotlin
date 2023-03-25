@@ -1,0 +1,26 @@
+<resources>
+  <string name="app_name">InfKotlin</string>
+
+  <string name="title">Infnet - Kotlin App</string>
+  <string name="link_back">Voltar</string>
+  <string name="input_email">Email</string>
+  <string name="input_password">Senha</string>
+  <string name="button_login">Entrar</string>
+  <string name="create_account_text">Criar uma nova conta</string>
+  <string name="button_google_login">Entrar com o Google</string>
+  <string name="invalid_username">Usuário inválido</string>
+  <string name="invalid_password">Senha inválida</string>
+  <string name="login_failed">Erro ao autenticar.</string>
+
+  <string name="title_register">Cadastre uma nova conta</string>
+  <string name="input_name">Nome</string>
+  <string name="input_confirm_password">Confirmar Senha</string>
+  <string name="button_register">Cadastrar</string>
+
+  <string name="tasks_list">Lista de Tarefas</string>
+  <string name="pending">Pendente</string>
+  <string name="completed">Concluída</string>
+  <string name="task_date">Task Date</string>
+  <string name="task_time">Task Time</string>
+  <string name="task_name">Task Name</string>
+</resources>
